@@ -20,7 +20,7 @@
 </details>
 
 ## <a name="about_the_project"></a>About The Projects
-The main aim of these projects is learning Python and Data Analytics/Science.
+These projects were made to learn how to import, clean, manipulate, and visualize data with python and work with datasets to learn the the statistical and machine learning techniques.
 
 ### <a name="the_projects"></a>The projects
 * Do Left-handed People Really Die Young
