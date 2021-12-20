@@ -28,6 +28,7 @@ These projects were made to learn how to import, clean, manipulate, and visualiz
 * English-Premier-League-Players-Game-Statistics
 * Investigating Netflix Movies and Guest Stars in The Office
 * Using pandas' read_csv iterator for streaming data
+* The GitHub History of the Scala Language
 
 ### <a name="built_with"></a>Built With
 * Python 
