@@ -56,5 +56,6 @@ These projects were made to learn how to import, clean, manipulate, and visualiz
 - [x] Data Visualization with Matplotlib
 - [x] Data Visualization with Seaborn
 - [ ] Data Visualization Tools: Microsoft Power BI, Tableau
+- [ ] Data Lake, Data Warehouse
 - [ ] Machine Learning in the Data Science Lifecycle
 - [ ] Machine Learning Algorithms in Data Science
