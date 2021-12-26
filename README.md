@@ -42,6 +42,7 @@ These projects were made to learn how to import, clean, manipulate, and visualiz
 * Kaggle
 * DataCamp
 * [ReDI School of Digital Integration](https://www.redi-school.org/)
+* UCI Machine Learning Repository
 
 ## <a name="getting_started"></a>Getting Started
 
