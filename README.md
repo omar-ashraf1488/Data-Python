@@ -20,7 +20,7 @@
 </details>
 
 ## <a name="about_the_project"></a>About The Projects
-These projects were made to learn how to import, clean, manipulate, and visualize data with python and work with datasets to learn the statistical and machine learning techniques.
+These projects are designed to help me continue learning how to import, clean, manipulate, and visualize data with python, as well as work with datasets to learn statistical and machine learning techniques.
 
 ### <a name="the_projects"></a>The projects
 * Do Left-handed People Really Die Young
